@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">UIApp</string>
+    <string name="btn_init">INIT</string>
+    <string name="btn_deinit">DE-INIT</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_unregister">UNREGISTER</string>
+    <string name="btn_connect">CONNECT</string>
+    <string name="btn_disconnect">DISCONNECT</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="btn_accept">ACCEPT</string>
+    <string name="btn_reject">REJECT</string>
+    <string name="results">RESULTS</string>
 </resources>
